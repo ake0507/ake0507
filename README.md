@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me  
 📧 **Email:** [akliludesalegn3@gmail.com](mailto:akliludesalegn3@gmail.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#) *(Replace `#` with your actual link)*  
+<!---🔗 **LinkedIn:** [Your LinkedIn Profile](#) *(Replace `#` with your actual link)*  --->
 
 ---
 
