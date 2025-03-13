@@ -56,11 +56,11 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkliluDesalegn&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkliluDesalegn&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ake0507&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkliluDesalegn&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ake0507&layout=compact&theme=radical" />
 </p>
 
 ---
