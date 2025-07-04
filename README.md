@@ -9,7 +9,9 @@
 ### 👀 About Me  
 - 🚀 I love building **scalable mobile applications** and **user-friendly interfaces**.  
 - 💡 Always exploring **new technologies** and **frameworks** to enhance development.  
-- 🎯 Focused on **clean code, performance, and great user experiences**.  
+- 🎯 Focused on **clean code, performance, and great user experiences**.
+- UI designer
+- virtual assistant  
 
 ---
 
